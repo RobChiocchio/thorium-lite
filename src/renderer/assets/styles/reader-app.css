@@ -416,13 +416,13 @@ button {
         margin: 0;
         margin-left: 0.5em;
         margin-right: 0.5em;
-        padding-left: 1em;
         text-align: center !important;
         font-size: 0.9em !important;
+
         /* width: 4em; */
         -webkit-appearance: none;
         border: 1px solid #aaa;
-        border-radius: 0.0em;
+        border-radius: 0.0;
         box-sizing: border-box;
         padding: 0.3em 0.5em 0.3em 0.5em;
         background-color: transparent;
