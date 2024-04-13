@@ -25,7 +25,8 @@ import { LCP } from "@r2-lcp-js/parser/epub/lcp";
 import { TaJsonDeserialize } from "@r2-lcp-js/serializable";
 import { Publication as R2Publication } from "@r2-shared-js/models/publication";
 import { DaisyParsePromise } from "@r2-shared-js/parser/daisy";
-import { convertDaisyToReadiumWebPub } from "@r2-shared-js/parser/daisy-convert-to-epub";
+//import { convertDaisyToReadiumWebPub } from "@r2-shared-js/parser/daisy-convert-to-epub";
+import { convertDaisyToReadiumWebPub } from "readium-desktop/main/tools/daisy-convert-to-epub";
 import { EpubParsePromise } from "@r2-shared-js/parser/epub";
 import { acceptedExtensionArray } from "readium-desktop/common/extension";
 
