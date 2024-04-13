@@ -21,6 +21,7 @@ try {
             /[/\\]src[/\\]main[/\\]redux[/\\]sagas[/\\]win[/\\]browserWindow[/\\]createLibraryWindow[/\\]/,
             /[/\\]src[/\\]main[/\\]redux[/\\]sagas[/\\]win[/\\]browserWindow[/\\]createReaderWindow[/\\]/,
             /[/\\]src[/\\]main[/\\]redux[/\\]sagas[/\\]index[/\\]/,
+            /[/\\]\.git[/\\]/,
         ],
     });
 } catch (_) {}
